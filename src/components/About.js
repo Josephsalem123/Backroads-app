@@ -17,9 +17,9 @@ const About = () => {
             unde dolor?
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            Lorem ipsum, dolor sitt amet consectetur adipisicing elit.
+            Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
+            sapiente odio unde dolor?
           </p>
           <a href='#about' className='btn'>
             read more
